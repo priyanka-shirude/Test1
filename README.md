@@ -4,7 +4,7 @@ public class Search
 public static void main(string args[])
 {
 //Now we will create an array to store the numbers
-int[] numbers=new int{1,2,3,4,5,6,7,8,9,10};
+int[] numbers=new int[]{1,2,3,4,5,6,7,8,9,10};
 for(i=0;i<numbers.length;i++)
 {
 if(numbers[i]%2==0)
